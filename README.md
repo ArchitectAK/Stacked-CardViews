@@ -27,7 +27,6 @@ In your xml file assign StackedCardview as below
 Assign and use in Activity
 
  		mStackView = (CardStackView) findViewById(R.id.stackview_main);
-        mActionButtonContainer = (LinearLayout) findViewById(R.id.button_container);
-        mStackView.setItemExpendListener(this);
-        mTestStackAdapter = new FreeAnkitStackAdapter(this);
-        mStackView.setAdapter(mTestStackAdapter);
+        	mStackView.setItemExpendListener(this);
+       		mTestStackAdapter = new FreeAnkitStackAdapter(this);
+       		mStackView.setAdapter(mTestStackAdapter);

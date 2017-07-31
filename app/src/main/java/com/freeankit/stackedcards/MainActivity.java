@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity implements CardStackView.Ite
         mStackView.setItemExpendListener(this);
         mTestStackAdapter = new FreeAnkitStackAdapter(this);
         mStackView.setAdapter(mTestStackAdapter);
-
         new Handler().postDelayed(
                 new Runnable() {
                     @Override

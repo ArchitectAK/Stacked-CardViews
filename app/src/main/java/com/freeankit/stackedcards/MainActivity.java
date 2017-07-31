@@ -59,7 +59,6 @@ public class MainActivity extends AppCompatActivity implements CardStackView.Ite
         mTestStackAdapter = new FreeAnkitStackAdapter(this);
         mStackView.setAdapter(mTestStackAdapter);
 
-
         new Handler().postDelayed(
                 new Runnable() {
                     @Override
@@ -103,6 +102,6 @@ public class MainActivity extends AppCompatActivity implements CardStackView.Ite
 
     @Override
     public void onItemExpend(boolean expend) {
-        mActionButtonContainer.setVisibility(expend ? View.VISIBLE : View.GONE);
+        // mActionButtonContainer.setVisibility(expend ? View.VISIBLE : View.GONE);
     }
 }

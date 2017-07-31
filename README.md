@@ -28,5 +28,5 @@ Assign and use in Activity
 
  		mStackView = (CardStackView) findViewById(R.id.stackview_main);
         	mStackView.setItemExpendListener(this);
-       		mTestStackAdapter = new FreeAnkitStackAdapter(this);
-       		mStackView.setAdapter(mTestStackAdapter);
+       	mTestStackAdapter = new FreeAnkitStackAdapter(this);
+       	mStackView.setAdapter(mTestStackAdapter);

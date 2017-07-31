@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\J6673234\.android\build-cache\c222c3e23126b7830302959ddd5eb852eb631456\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42b82ce9de1005627e6f2208c3007f80d1103c8d">
+        <dex dex="D:\Ankit\Github\StackedCards2\app\build\intermediates\pre-dexed\debug\classes_1e0126457ca9c801758fdba1737d666f07d41119.jar" />
+    </item>
+
+</items>

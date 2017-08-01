@@ -19,7 +19,7 @@ Now add this dependency to your app.gradle
 
 add this dependency to your app.gradle
 
-	compile 'com.freeankit.freestack:freeStack:1.0.0@aar'
+	compile 'com.freeankit.freestack:freeStack:1.0.0'
 			
 In your xml file assign StackedCardview as below
 

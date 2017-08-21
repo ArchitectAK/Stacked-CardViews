@@ -1,7 +1,7 @@
 # Stacked-CardViews
 
 
-![GIF](app\art\video.gif)
+![GIF](https://github.com/AnkitDroidGit/Stacked-CardViews/blob/master/app/art/video.gif)
 
 
 To use this libraray there are two ways.. You can use either one of both.

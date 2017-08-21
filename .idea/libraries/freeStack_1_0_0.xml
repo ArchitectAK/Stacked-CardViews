@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="freeStack-1.0.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/c222c3e23126b7830302959ddd5eb852eb631456/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/c222c3e23126b7830302959ddd5eb852eb631456/output/res" />
+      <root url="jar://D:/Users/J6673234/.gradle/caches/transforms-1/files-1.1/freeStack-1.0.0.aar/aeb0204aeb834183fb1a3c89808a10fc/jars/classes.jar!/" />
+      <root url="file://D:/Users/J6673234/.gradle/caches/transforms-1/files-1.1/freeStack-1.0.0.aar/aeb0204aeb834183fb1a3c89808a10fc/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/Program Files/.gradle/caches/modules-2/files-2.1/com.freeankit.freestack/freeStack/1.0.0/b44d9c016bbdbf65992cb6f75da379d4fc6ada95/freeStack-1.0.0-sources.jar!/" />
+      <root url="jar://D:/Users/J6673234/.gradle/caches/modules-2/files-2.1/com.freeankit.freestack/freeStack/1.0.0/b44d9c016bbdbf65992cb6f75da379d4fc6ada95/freeStack-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

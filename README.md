@@ -1,5 +1,9 @@
 # Stacked-CardViews
 
+
+![GIF](app\art\video.gif)
+
+
 To use this libraray there are two ways.. You can use either one of both.
 
 
@@ -35,7 +39,6 @@ In your xml file assign StackedCardview as below
 				
 				
 Assign and use in Activity
-
 
         mStackView = (CardStackView) findViewById(R.id.stackview_main);
         mStackView.setItemExpendListener(this);
